@@ -30,3 +30,24 @@
     transform: rotate(360deg);
   }
 }
+
+.VideoList {
+  overflow-y: scroll;
+  max-height: 800px;
+  width: 50%;
+  margin-left:40px;
+  margin-top: 20px;
+  background-color: #D3D3D3;
+  border-radius: 10px;
+}
+.TextSearch, .DateSearch {
+  margin-left:40px;
+}
+.Navigation {
+  text-align: left;
+}
+
+.FilteredCount {
+  margin-left:40px;
+  margin-top: 20px;
+}
