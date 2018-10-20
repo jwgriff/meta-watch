@@ -40,9 +40,14 @@
   background-color: #D3D3D3;
   border-radius: 10px;
 }
-.TextSearch {
+.TextSearch, .DateSearch {
   margin-left:40px;
 }
 .Navigation {
   text-align: left;
+}
+
+.FilteredCount {
+  margin-left:40px;
+  margin-top: 20px;
 }
